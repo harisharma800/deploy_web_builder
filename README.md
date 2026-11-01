@@ -1,0 +1,1 @@
+run command : uv run python -m e2b_sandbox:main
